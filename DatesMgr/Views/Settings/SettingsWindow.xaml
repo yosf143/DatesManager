@@ -1,0 +1,24 @@
+﻿<Window x:Class="DatesMgr.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="الإعدادات" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" FlowDirection="RightToLeft" Height="200" Width="370">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <CheckBox x:Name="chkEnableDesktopShortcut" Content="تمكين إختصار سطح المكتب." Grid.Row="0" Margin="0,0,0,10"/>
+        <CheckBox x:Name="chkAutomaticDeleteExpired" Content="حذف تلقائي للمنتجات عند إنتهاء تاريخ صلاحيتها." Grid.Row="1" Margin="0,0,0,10"/>
+
+        <Separator Grid.Row="2" HorizontalAlignment="Stretch" Margin="0,10,0,10"/>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,0,10">
+            <Button Content="حفظ" Width="80" Margin="5" Click="SaveSettings_Click"/>
+            <Button Content="إعدادات الإشعارات" Width="120" Margin="5" Click="OpenAlertSettings_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

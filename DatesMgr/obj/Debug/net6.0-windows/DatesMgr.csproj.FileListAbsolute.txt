@@ -1,0 +1,127 @@
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.exe
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.dll.config
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.deps.json
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.runtimeconfig.json
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.dll
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.csproj.AssemblyReference.cache
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\Interop.IWshRuntimeLibrary.dll
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.csproj.ResolveComReference.cache
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\ResultWindow.baml
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\Views\Product\AddProductWindow.baml
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\Views\Product\EditProductWindow.baml
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\AlertMessageWindow.baml
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\AlertSettingsWindow.baml
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\SettingsWindow.baml
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\ResultWindow.g.cs
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\Views\Product\AddProductWindow.g.cs
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\Views\Product\EditProductWindow.g.cs
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\AlertMessageWindow.g.cs
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\AlertSettingsWindow.g.cs
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\SettingsWindow.g.cs
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\DatesMgr_Content.g.cs
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\DatesMgr_MarkupCompile.cache
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.g.resources
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.AssemblyInfoInputs.cache
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.AssemblyInfo.cs
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.csproj.CoreCompileInputs.cache
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.csproj.CopyComplete
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.dll
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\refint\DatesMgr.dll
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.genruntimeconfig.cache
+C:\Users\Smile\source\repos\DatesMgr\DatesMgr\obj\Debug\net6.0-windows\ref\DatesMgr.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.csproj.AssemblyReference.cache
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\Interop.IWshRuntimeLibrary.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.csproj.ResolveComReference.cache
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\ResultWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\Views\Product\EditProductWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\AlertMessageWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\AlertSettingsWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\SettingsWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\ResultWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\Views\Product\EditProductWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\AlertMessageWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\AlertSettingsWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\SettingsWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\DatesMgr_Content.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\DatesMgr_MarkupCompile.cache
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\refint\DatesMgr.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.exe
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.dll.config
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.deps.json
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.runtimeconfig.json
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\Views\Product\AddProductWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\Views\Product\AddProductWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.g.resources
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.AssemblyInfoInputs.cache
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.AssemblyInfo.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.csproj.CoreCompileInputs.cache
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.csproj.CopyComplete
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.genruntimeconfig.cache
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\obj\Debug\net6.0-windows\ref\DatesMgr.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesMgr\bin\Debug\net6.0-windows\FluentFTP.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.exe
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.dll.config
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.deps.json
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.runtimeconfig.json
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\bin\Debug\net6.0-windows\DatesMgr.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.csproj.AssemblyReference.cache
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Interop.IWshRuntimeLibrary.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.csproj.ResolveComReference.cache
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Views\Product\AddProductWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Views\Product\EditProductWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Views\Results\AlertMessageWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Views\Results\ResultWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\AlertSettingsWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\SettingsWindow.baml
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Views\Product\AddProductWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Views\Product\EditProductWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Views\Results\AlertMessageWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Views\Results\ResultWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\AlertSettingsWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\Views\Settings\SettingsWindow.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\DatesMgr_Content.g.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\DatesMgr_MarkupCompile.cache
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.g.resources
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.AssemblyInfoInputs.cache
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.AssemblyInfo.cs
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.csproj.CoreCompileInputs.cache
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.csproj.CopyComplete
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\refint\DatesMgr.dll
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\DatesMgr.genruntimeconfig.cache
+C:\Users\Smile\Desktop\Projects\Visual Studio\DatesManager\DatesMgr\obj\Debug\net6.0-windows\ref\DatesMgr.dll

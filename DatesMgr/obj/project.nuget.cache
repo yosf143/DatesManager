@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ug9hVP0+XmSJJzKOLM4ruPr9h72QtojjiGujlCvygZTmLTfev5PmULknZFcNoHN+1/9lc+9q8vxaGUJgLjBQkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Smile\\Desktop\\Projects\\Visual Studio\\DatesManager\\DatesMgr\\DatesMgr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Smile\\.nuget\\packages\\microsoft.web.webview2\\1.0.2151.40\\microsoft.web.webview2.1.0.2151.40.nupkg.sha512",
+    "C:\\Users\\Smile\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Smile\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Smile\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Smile\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Smile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

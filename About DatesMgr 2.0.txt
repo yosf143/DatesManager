@@ -1,0 +1,10 @@
+First off, i made this application to imrpove and practice my programming skills
+---------------------
+
+I made this app to manage exp dates of goods for companies and commercial establishments
+especially food companies, to facilitate the process of tracking the dates of goods
+and sending notifications to the user when a specific date approaches.
+
+Database format is .Json i find it the easier one to use for small bussniess.
+
+contact@s-yousef.com

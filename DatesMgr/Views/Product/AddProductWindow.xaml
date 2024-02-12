@@ -1,0 +1,35 @@
+﻿<Window x:Class="DatesMgr.AddProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="إضافة منتج"  WindowStartupLocation="CenterScreen" FlowDirection="RightToLeft" ResizeMode="NoResize" Height="430" Width="300">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Margin="0,0,0,10" Text="إسم المنتج:"/>
+            <TextBox x:Name="txtProductName" Margin="0,0,0,10"/>
+
+            <TextBlock Margin="0,0,0,10" Text="تاريخ الإنتهاء:"/>
+            <DatePicker x:Name="dpExpireDate" Margin="0,0,0,10"/>
+
+            <TextBlock Margin="0,0,0,10" Text="الوحدة:"/>
+            <ComboBox x:Name="cmbUnit" Margin="0,0,0,10">
+                <ComboBoxItem Content="كرتونة"/>
+                <ComboBoxItem Content="بكيت"/>
+                <ComboBoxItem Content="كيلو"/>
+                <ComboBoxItem Content="ربطة"/>
+                <ComboBoxItem Content="حبة"/>
+            </ComboBox>
+
+
+            <TextBlock Margin="0,0,0,10" Text="الكمية:"/>
+            <TextBox x:Name="txtQty" Margin="0,0,0,10"/>
+
+            <TextBlock Margin="0,0,0,10" Text="سعر العرض:"/>
+            <TextBox x:Name="txtDiscountPrice" Margin="0,0,0,10"/>
+
+            <TextBlock Margin="0,0,0,10" Text="ملاحظات:"/>
+            <TextBox x:Name="txtNotes" Margin="0,0,0,10"/>
+
+            <Button Content="إضافة" Click="AddProduct_Click" Width="150"/>
+        </StackPanel>
+    </Grid>
+</Window>
